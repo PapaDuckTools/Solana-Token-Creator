@@ -14,7 +14,7 @@ const App: FC<AppProps> = ({ Component, pageProps }) => {
   return (
     <>
       <Head>
-        <title>Solana Token Creator</title>
+        <title>PapaDuck Tools</title>
       </Head>
 
       <ContextProvider>

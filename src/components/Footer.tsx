@@ -38,7 +38,7 @@ export const Footer: FC = () => {
         <div className="mx-auto max-w-md grid-flow-col gap-4 text-center sm:pl-12">
           <div className="text-xl font-normal">Source code is available at</div>
           <a
-            href="https://github.com/exitatmosphere/Solana-Token-Creator"
+            href="https://t.me/papaduckcalls"
             target="_blank"
             rel="noreferrer"
           >
